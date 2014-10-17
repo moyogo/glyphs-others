@@ -7,3 +7,6 @@
 [submodule "justanotherfoundry-glyphsapp-scripts"]
 	path = justanotherfoundry-glyphsapp-scripts
 	url = https://github.com/justanotherfoundry/glyphsapp-scripts
+[submodule "schriftgestalt-glyphs-scripts"]
+	path = schriftgestalt-glyphs-scripts
+	url = https://github.com/schriftgestalt/Glyphs-Scripts
