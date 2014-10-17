@@ -10,3 +10,6 @@
 [submodule "schriftgestalt-glyphs-scripts"]
 	path = schriftgestalt-glyphs-scripts
 	url = https://github.com/schriftgestalt/Glyphs-Scripts
+[submodule "tosche-glyphs-scripts"]
+	path = tosche-glyphs-scripts
+	url = https://github.com/Tosche/Glyphs-Scripts
