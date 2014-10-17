@@ -1,3 +1,6 @@
 [submodule "broadnibber"]
 	path = mekkablue-broadnibber
 	url = https://github.com/mekkablue/BroadNibber
+[submodule "mekkablue-glyphs-scripts"]
+	path = mekkablue-glyphs-scripts
+	url = https://github.com/mekkablue/Glyphs-Scripts
