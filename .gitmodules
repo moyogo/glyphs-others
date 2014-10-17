@@ -1,0 +1,3 @@
+[submodule "broadnibber"]
+	path = broadnibber
+	url = https://github.com/mekkablue/BroadNibber
