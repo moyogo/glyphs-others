@@ -4,3 +4,6 @@
 [submodule "mekkablue-glyphs-scripts"]
 	path = mekkablue-glyphs-scripts
 	url = https://github.com/mekkablue/Glyphs-Scripts
+[submodule "justanotherfoundry-glyphsapp-scripts"]
+	path = justanotherfoundry-glyphsapp-scripts
+	url = https://github.com/justanotherfoundry/glyphsapp-scripts
