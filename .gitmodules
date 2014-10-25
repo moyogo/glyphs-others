@@ -13,3 +13,6 @@
 [submodule "tosche-glyphs-scripts"]
 	path = tosche-glyphs-scripts
 	url = https://github.com/Tosche/Glyphs-Scripts
+[submodule "juandelperal-glyphs-scripts"]
+	path = juandelperal-glyphs-scripts
+	url = https://github.com/juandelperal/glyphsScripts
