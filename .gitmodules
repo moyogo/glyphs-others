@@ -16,3 +16,6 @@
 [submodule "juandelperal-glyphs-scripts"]
 	path = juandelperal-glyphs-scripts
 	url = https://github.com/juandelperal/glyphsScripts
+[submodule "jenskutilek-redarrow-glyphs"]
+	path = jenskutilek-redarrow-glyphs
+	url = https://github.com/jenskutilek/RedArrow-Glyphs
