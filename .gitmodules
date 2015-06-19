@@ -19,3 +19,54 @@
 [submodule "jenskutilek-redarrow-glyphs"]
 	path = jenskutilek-redarrow-glyphs
 	url = https://github.com/jenskutilek/RedArrow-Glyphs
+[submodule "mekkablue-insertinflections"]
+	path = mekkablue-insertinflections
+	url = https://github.com/mekkablue/InsertInflections
+[submodule "mekkablue-noodler"]
+	path = mekkablue-noodler
+	url = https://github.com/mekkablue/Noodler
+[submodule "mekkablue-fixzerohandles"]
+	path = mekkablue-fixzerohandles
+	url = https://github.com/mekkablue/FixZeroHandles
+[submodule "mekkablue-showmetricskeys"]
+	path = mekkablue-showmetricskeys
+	url = https://github.com/mekkablue/ShowMetricsKeys
+[submodule "mekkablue-makecorner"]
+	path = mekkablue-makecorner
+	url = https://github.com/mekkablue/MakeCorner
+[submodule "mekkablue-showinterpolations"]
+	path = mekkablue-showinterpolations
+	url = https://github.com/mekkablue/ShowInterpolations
+[submodule "mekkablue-showangledhandles"]
+	path = mekkablue-showangledhandles
+	url = https://github.com/mekkablue/ShowAngledHandles
+[submodule "mekkablue-showhandleseverywhere"]
+	path = mekkablue-showhandleseverywhere
+	url = https://github.com/mekkablue/ShowHandlesEverywhere
+[submodule "mekkablue-layergeek"]
+	path = mekkablue-layergeek
+	url = https://github.com/mekkablue/LayerGeek
+[submodule "mekkablue-cutandshake"]
+	path = mekkablue-cutandshake
+	url = https://github.com/mekkablue/CutAndShake
+[submodule "mekkablue-showoffsetcurveparameterpreview"]
+	path = mekkablue-showoffsetcurveparameterpreview
+	url = https://github.com/mekkablue/ShowOffsetCurveParameterPreview
+[submodule "mekkablue-inverter"]
+	path = mekkablue-inverter
+	url = https://github.com/mekkablue/Inverter
+[submodule "mekkablue-showcomponentorder"]
+	path = mekkablue-showcomponentorder
+	url = https://github.com/mekkablue/ShowComponentOrder
+[submodule "mekkablue-showcoordinatesofselectednodes"]
+	path = mekkablue-showcoordinatesofselectednodes
+	url = https://github.com/mekkablue/ShowCoordinatesOfSelectedNodes
+[submodule "mekkablue-showglyphsinlabelcolor"]
+	path = mekkablue-showglyphsinlabelcolor
+	url = https://github.com/mekkablue/ShowGlyphsInLabelColor
+[submodule "mekkablue-showcrosshair"]
+	path = mekkablue-showcrosshair
+	url = https://github.com/mekkablue/ShowCrosshair
+[submodule "mekkablue-showfilledpreview"]
+	path = mekkablue-showfilledpreview
+	url = https://github.com/mekkablue/ShowFilledPreview
