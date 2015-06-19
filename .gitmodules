@@ -17,7 +17,7 @@
 	path = juandelperal-glyphs-scripts
 	url = https://github.com/juandelperal/glyphsScripts
 [submodule "jenskutilek-redarrow-glyphs"]
-	path = jenskutilek-redarrow-glyphs
+	path = plugins/jenskutilek-redarrow-glyphs
 	url = https://github.com/jenskutilek/RedArrow-Glyphs
 [submodule "mekkablue-insertinflections"]
 	path = plugins/mekkablue-insertinflections
