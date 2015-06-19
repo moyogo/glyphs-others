@@ -1,5 +1,5 @@
 [submodule "broadnibber"]
-	path = mekkablue-broadnibber
+	path = plugins/mekkablue-broadnibber
 	url = https://github.com/mekkablue/BroadNibber
 [submodule "mekkablue-glyphs-scripts"]
 	path = mekkablue-glyphs-scripts
@@ -20,53 +20,53 @@
 	path = jenskutilek-redarrow-glyphs
 	url = https://github.com/jenskutilek/RedArrow-Glyphs
 [submodule "mekkablue-insertinflections"]
-	path = mekkablue-insertinflections
+	path = plugins/mekkablue-insertinflections
 	url = https://github.com/mekkablue/InsertInflections
 [submodule "mekkablue-noodler"]
-	path = mekkablue-noodler
+	path = plugins/mekkablue-noodler
 	url = https://github.com/mekkablue/Noodler
 [submodule "mekkablue-fixzerohandles"]
-	path = mekkablue-fixzerohandles
+	path = plugins/mekkablue-fixzerohandles
 	url = https://github.com/mekkablue/FixZeroHandles
 [submodule "mekkablue-showmetricskeys"]
-	path = mekkablue-showmetricskeys
+	path = plugins/mekkablue-showmetricskeys
 	url = https://github.com/mekkablue/ShowMetricsKeys
 [submodule "mekkablue-makecorner"]
-	path = mekkablue-makecorner
+	path = plugins/mekkablue-makecorner
 	url = https://github.com/mekkablue/MakeCorner
 [submodule "mekkablue-showinterpolations"]
-	path = mekkablue-showinterpolations
+	path = plugins/mekkablue-showinterpolations
 	url = https://github.com/mekkablue/ShowInterpolations
 [submodule "mekkablue-showangledhandles"]
-	path = mekkablue-showangledhandles
+	path = plugins/mekkablue-showangledhandles
 	url = https://github.com/mekkablue/ShowAngledHandles
 [submodule "mekkablue-showhandleseverywhere"]
-	path = mekkablue-showhandleseverywhere
+	path = plugins/mekkablue-showhandleseverywhere
 	url = https://github.com/mekkablue/ShowHandlesEverywhere
 [submodule "mekkablue-layergeek"]
-	path = mekkablue-layergeek
+	path = plugins/mekkablue-layergeek
 	url = https://github.com/mekkablue/LayerGeek
 [submodule "mekkablue-cutandshake"]
-	path = mekkablue-cutandshake
+	path = plugins/mekkablue-cutandshake
 	url = https://github.com/mekkablue/CutAndShake
 [submodule "mekkablue-showoffsetcurveparameterpreview"]
-	path = mekkablue-showoffsetcurveparameterpreview
+	path = plugins/mekkablue-showoffsetcurveparameterpreview
 	url = https://github.com/mekkablue/ShowOffsetCurveParameterPreview
 [submodule "mekkablue-inverter"]
-	path = mekkablue-inverter
+	path = plugins/mekkablue-inverter
 	url = https://github.com/mekkablue/Inverter
 [submodule "mekkablue-showcomponentorder"]
-	path = mekkablue-showcomponentorder
+	path = plugins/mekkablue-showcomponentorder
 	url = https://github.com/mekkablue/ShowComponentOrder
 [submodule "mekkablue-showcoordinatesofselectednodes"]
-	path = mekkablue-showcoordinatesofselectednodes
+	path = plugins/mekkablue-showcoordinatesofselectednodes
 	url = https://github.com/mekkablue/ShowCoordinatesOfSelectedNodes
 [submodule "mekkablue-showglyphsinlabelcolor"]
-	path = mekkablue-showglyphsinlabelcolor
+	path = plugins/mekkablue-showglyphsinlabelcolor
 	url = https://github.com/mekkablue/ShowGlyphsInLabelColor
 [submodule "mekkablue-showcrosshair"]
-	path = mekkablue-showcrosshair
+	path = plugins/mekkablue-showcrosshair
 	url = https://github.com/mekkablue/ShowCrosshair
 [submodule "mekkablue-showfilledpreview"]
-	path = mekkablue-showfilledpreview
+	path = plugins/mekkablue-showfilledpreview
 	url = https://github.com/mekkablue/ShowFilledPreview
