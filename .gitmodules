@@ -76,3 +76,6 @@
 [submodule "deutschmark-glyphsapp-scripts"]
 	path = deutschmark-glyphsapp-scripts
 	url = https://github.com/DeutschMark/Glyphsapp-Scripts
+[submodule "plugins/simoncozens-glyphsgit"]
+	path = plugins/simoncozens-glyphsgit
+	url = https://github.com/simoncozens/GlyphsGit
