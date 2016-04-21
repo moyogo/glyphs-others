@@ -82,3 +82,6 @@
 [submodule "plugins/simoncozens-glyphsplugins"]
 	path = plugins/simoncozens-glyphsplugins
 	url = https://github.com/simoncozens/GlyphsPlugins
+[submodule "simoncozens-glyphsscripts"]
+	path = simoncozens-glyphsscripts
+	url = https://github.com/simoncozens/GlyphsScripts
