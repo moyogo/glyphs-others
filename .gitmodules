@@ -85,3 +85,6 @@
 [submodule "simoncozens-glyphsscripts"]
 	path = simoncozens-glyphsscripts
 	url = https://github.com/simoncozens/GlyphsScripts
+[submodule "plugins/guidoferreyra-shownextfont"]
+	path = plugins/guidoferreyra-shownextfont
+	url = https://github.com/guidoferreyra/ShowNextFont
