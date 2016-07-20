@@ -91,3 +91,6 @@
 [submodule "plugins/carrois-kernkraft"]
 	path = plugins/carrois-kernkraft
 	url = https://github.com/carrois/Kernkraft
+[submodule "plugins/simoncozens-heatmap"]
+	path = plugins/simoncozens-heatmap
+	url = https://github.com/simoncozens/Heatmap
