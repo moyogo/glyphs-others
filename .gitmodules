@@ -88,3 +88,6 @@
 [submodule "plugins/guidoferreyra-shownextfont"]
 	path = plugins/guidoferreyra-shownextfont
 	url = https://github.com/guidoferreyra/ShowNextFont
+[submodule "plugins/carrois-kernkraft"]
+	path = plugins/carrois-kernkraft
+	url = https://github.com/carrois/Kernkraft
