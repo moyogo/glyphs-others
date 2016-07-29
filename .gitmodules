@@ -94,3 +94,6 @@
 [submodule "plugins/simoncozens-heatmap"]
 	path = plugins/simoncozens-heatmap
 	url = https://github.com/simoncozens/Heatmap
+[submodule "justanotherfoundry-freemix-glyphsapp"]
+	path = justanotherfoundry-freemix-glyphsapp
+	url = https://github.com/justanotherfoundry/freemix-glyphsapp
