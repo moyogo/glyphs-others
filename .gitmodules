@@ -97,3 +97,6 @@
 [submodule "justanotherfoundry-freemix-glyphsapp"]
 	path = justanotherfoundry-freemix-glyphsapp
 	url = https://github.com/justanotherfoundry/freemix-glyphsapp
+[submodule "plugins/rafalbuchner-stemthickness"]
+	path = plugins/rafalbuchner-stemthickness
+	url = https://github.com/RafalBuchner/StemThickness
