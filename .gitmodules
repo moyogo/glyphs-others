@@ -100,3 +100,6 @@
 [submodule "plugins/rafalbuchner-stemthickness"]
 	path = plugins/rafalbuchner-stemthickness
 	url = https://github.com/RafalBuchner/StemThickness
+[submodule "m4rc1e-glyphs-scripts"]
+	path = m4rc1e-glyphs-scripts
+	url = https://github.com/m4rc1e/mf-glyphs-scripts
