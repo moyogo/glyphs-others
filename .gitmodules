@@ -103,3 +103,6 @@
 [submodule "m4rc1e-glyphs-scripts"]
 	path = m4rc1e-glyphs-scripts
 	url = https://github.com/m4rc1e/mf-glyphs-scripts
+[submodule "jenskutilek-mastergrid"]
+	path = jenskutilek-mastergrid
+	url = https://github.com/jenskutilek/MasterGrid
