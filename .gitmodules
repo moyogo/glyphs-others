@@ -89,8 +89,8 @@
 	path = plugins/guidoferreyra-shownextfont
 	url = https://github.com/guidoferreyra/ShowNextFont
 [submodule "plugins/carrois-kernkraft"]
-	path = plugins/carrois-kernkraft
-	url = https://github.com/carrois/Kernkraft
+	path = plugins/bboxtype-kernkraft
+	url = https://github.com/bBoxType/Kernkraft
 [submodule "plugins/simoncozens-heatmap"]
 	path = plugins/simoncozens-heatmap
 	url = https://github.com/simoncozens/Heatmap
