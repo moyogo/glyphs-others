@@ -106,3 +106,45 @@
 [submodule "jenskutilek-mastergrid"]
 	path = jenskutilek-mastergrid
 	url = https://github.com/jenskutilek/MasterGrid
+[submodule "plugins/mark2mark-skedge"]
+	path = plugins/mark2mark-skedge
+	url = https://github.com/Mark2Mark/Skedge
+[submodule "plugins/mark2mark-show-rotated"]
+	path = plugins/mark2mark-show-rotated
+	url = https://github.com/Mark2Mark/Show-Rotated
+[submodule "plugins/mark2mark-show-stems"]
+	path = plugins/mark2mark-show-stems
+	url = https://github.com/Mark2Mark/Show-Stems
+[submodule "plugins/mark2mark-blindfold"]
+	path = plugins/mark2mark-blindfold
+	url = https://github.com/Mark2Mark/Blindfold
+[submodule "plugins/mark2mark-reported-toggler"]
+	path = plugins/mark2mark-reported-toggler
+	url = https://github.com/Mark2Mark/Reporter-Toggler
+[submodule "plugins/mark2mark-show-smart-plumblines"]
+	path = plugins/mark2mark-show-smart-plumblines
+	url = https://github.com/Mark2Mark/Show-Smart-Plumblines
+[submodule "plugins/mark2mark-show-label-color"]
+	path = plugins/mark2mark-show-label-color
+	url = https://github.com/Mark2Mark/Show-Label-Color
+[submodule "plugins/mark2mark-show-kerning-group-reference"]
+	path = plugins/mark2mark-show-kerning-group-reference
+	url = https://github.com/Mark2Mark/Show-Kerning-Group-Reference
+[submodule "plugins/mark2mark-arrange-windows"]
+	path = plugins/mark2mark-arrange-windows
+	url = https://github.com/Mark2Mark/Arrange-Windows
+[submodule "plugins/mark2mark-show-next-master"]
+	path = plugins/mark2mark-show-next-master
+	url = https://github.com/Mark2Mark/Show-Next-Master
+[submodule "plugins/mark2mark-show-siblings"]
+	path = plugins/mark2mark-show-siblings
+	url = https://github.com/Mark2Mark/Show-Siblings
+[submodule "plugins/mark2mark-show-node-count"]
+	path = plugins/mark2mark-show-node-count
+	url = https://github.com/Mark2Mark/Show-Node-Count
+[submodule "plugins/mark2mark-synced-tabs"]
+	path = plugins/mark2mark-synced-tabs
+	url = https://github.com/Mark2Mark/Synced-Tabs
+[submodule "plugins/mark2mark-show-distance-and-angle-of-nodes"]
+	path = plugins/mark2mark-show-distance-and-angle-of-nodes
+	url = https://github.com/Mark2Mark/Show-Distance-And-Angle-Of-Nodes
