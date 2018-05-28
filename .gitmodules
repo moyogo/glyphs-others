@@ -70,12 +70,6 @@
 [submodule "mekkablue-showfilledpreview"]
 	path = plugins/mekkablue-showfilledpreview
 	url = https://github.com/mekkablue/ShowFilledPreview
-[submodule "plugins/deutschmark-glyphsapp-plugins"]
-	path = plugins/deutschmark-glyphsapp-plugins
-	url = https://github.com/DeutschMark/Glyphsapp-Plugins
-[submodule "deutschmark-glyphsapp-scripts"]
-	path = deutschmark-glyphsapp-scripts
-	url = https://github.com/DeutschMark/Glyphsapp-Scripts
 [submodule "plugins/simoncozens-glyphsgit"]
 	path = plugins/simoncozens-glyphsgit
 	url = https://github.com/simoncozens/GlyphsGit
