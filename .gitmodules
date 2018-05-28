@@ -148,3 +148,6 @@
 [submodule "plugins/mark2mark-show-distance-and-angle-of-nodes"]
 	path = plugins/mark2mark-show-distance-and-angle-of-nodes
 	url = https://github.com/Mark2Mark/Show-Distance-And-Angle-Of-Nodes
+[submodule "tosche-bubblekern"]
+	path = tosche-bubblekern
+	url = https://github.com/Tosche/BubbleKern.git
