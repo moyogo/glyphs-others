@@ -145,3 +145,6 @@
 [submodule "tosche-bubblekern"]
 	path = tosche-bubblekern
 	url = https://github.com/Tosche/BubbleKern.git
+[submodule "luke-snider-de-casteljau-for-glyphsapp"]
+	path = luke-snider-de-casteljau-for-glyphsapp
+	url = https://github.com/luke-snider/de-casteljau-for-GlyphsApp
