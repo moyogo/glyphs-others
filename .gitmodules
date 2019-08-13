@@ -151,3 +151,6 @@
 [submodule "harbortype-glyphs-scripts"]
 	path = harbortype-glyphs-scripts
 	url = git@github.com:harbortype/glyphs-scripts.git
+[submodule "pedroarilla-glyphsscripts"]
+	path = pedroarilla-glyphsscripts
+	url = https://github.com/pedroarilla/glyphs-scripts.git
