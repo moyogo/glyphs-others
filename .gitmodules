@@ -157,3 +157,6 @@
 [submodule "ricard-garcia-tr-glyphs-scripts"]
 	path = ricard-garcia-tr-glyphs-scripts
 	url = git@github.com:Ricard-Garcia/TR-Glyphs-Scripts.git
+[submodule "eweracs-italify"]
+	path = eweracs-italify
+	url = https://github.com/eweracs/Italify
