@@ -160,3 +160,6 @@
 [submodule "eweracs-italify"]
 	path = eweracs-italify
 	url = https://github.com/eweracs/Italify
+[submodule "plugins/flachware-typollipse"]
+	path = plugins/flachware-typollipse
+	url = git@github.com:flachware/typollipse.git
